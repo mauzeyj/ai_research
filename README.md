@@ -3,7 +3,7 @@ This repository is to learn about all of the current reinforcement learning algo
 
 The first step according to Open AI is to start implementing algorithsm.  This is the list to be implemented. 
 
- - [] VPG(Reinforce): Vanilla Policy Gradient
+ - [ ] VPG(Reinforce): Vanilla Policy Gradient
  - [ ] DQN
  - [ ] AC2
  - [ ] PPO
